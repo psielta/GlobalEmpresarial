@@ -1,0 +1,14 @@
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\bin\Debug\net7.0\GlobalEmpresarial.Core.deps.json
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\bin\Debug\net7.0\GlobalEmpresarial.Core.runtimeconfig.json
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\bin\Debug\net7.0\GlobalEmpresarial.Core.dll
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\bin\Debug\net7.0\GlobalEmpresarial.Core.pdb
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\GlobalEmpresarial.Core.csproj.AssemblyReference.cache
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\GlobalEmpresarial.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\GlobalEmpresarial.Core.AssemblyInfoInputs.cache
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\GlobalEmpresarial.Core.AssemblyInfo.cs
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\GlobalEmpresarial.Core.csproj.CoreCompileInputs.cache
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\GlobalEmpresarial.Core.dll
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\refint\GlobalEmpresarial.Core.dll
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\GlobalEmpresarial.Core.pdb
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\GlobalEmpresarial.Core.genruntimeconfig.cache
+C:\Users\Suporte2\Desktop\TestEFCore\GlobalEmpresarial\GlobalEmpresarial.Core\obj\Debug\net7.0\ref\GlobalEmpresarial.Core.dll
